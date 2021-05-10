@@ -144,7 +144,7 @@ describe "#display_board in 'lib/display_board.rb" do
       # entirely filled with Xs?"
 
       # Define the board with values that should create the desired output
-      # *** Edit the line below ***
+      # *** Edit the line below *** - THIS HAS NOW BEEN EDITED TO INCLUDED ALL X's FOR BOARD STATE TEST
       board = ["X", "X", "X", "X", "X", "X", "X", "X", "X"]
 
       # Don't touch the following lines.
